@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alkhrtnv
 - 👀 I’m interested in programming, devices, Chinese
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/alkhrtnv
+- 💞️ I’m looking for an internship
 
 <!---
 alkhrtnv/alkhrtnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
