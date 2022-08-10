@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senglish42
 - 👀 I’m interested in programming, devices, Chinese
-- 🌱 I’m currently learning C (started at Apr, 2021)
+- 🌱 I’m currently learning C++, Java
 - 💞️ I’m looking for an internship
 
 <!---
