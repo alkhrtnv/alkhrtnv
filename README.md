@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @senglish42
-- 👀 I’m interested in programming, devices, Chinese
-- 🌱 I’m currently learning Kotlin, Android
-- 💞️ I’m looking for an internship
+Header
 
-<!---
-alkhrtnv/alkhrtnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me
+## A beginner programmer from Russia 🇷🇺, currently living in Georgia 🇬🇪. Graduated at TUSUR (Tomsk, Russia) with a science degree (business informatics) in 2019. Interested in mobile devices, Android and Kotlin. I speak Russian(native)🇷🇺, English(advanced)🇺🇸, Chinese(Intermediate)🇨🇳. 
+
+Languages and tools
+
+Contact me
