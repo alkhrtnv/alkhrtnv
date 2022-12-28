@@ -1,11 +1,11 @@
-<!-- ![Header](https://github.com/senglish42/senglish42/blob/main/res/welcome.jpg) -->
+![Header](https://github.com/senglish42/senglish42/blob/main/res/header.gif)
 
 ## ABOUT ME
 
 #### • A beginner programmer from Russia 🇷🇺, currently living in Georgia 🇬🇪.
 #### • Graduated at TUSUR (Tomsk, Russia) with a science degree (business informatics) in 2019. 
 #### • Interested in mobile devices, Android and Kotlin. 
-#### • I speak Russian(native)🇷🇺, English(advanced)🇺🇸, Chinese(Intermediate)🇨🇳. 
+#### • I speak Russian🇷🇺, English🇺🇸 and Chinese🇨🇳. 
 
 ## LANGUAGES AND TOOLS
 ![Kotlin](https://img.shields.io/badge/-Kotlin-8B00FF?style=for-the-badge&logo=kotlin&logoColor=white)
