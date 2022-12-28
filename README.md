@@ -1,4 +1,4 @@
-![Header](https://github.com/senglish42/senglish42/blob/main/res/header.gif)
+![Header](https://github.com/senglish42/senglish42/blob/main/res/header.gif){loop=""}
 
 ## ABOUT ME
 
