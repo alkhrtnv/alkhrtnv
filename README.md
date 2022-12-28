@@ -8,16 +8,16 @@
 #### • I speak Russian(native)🇷🇺, English(advanced)🇺🇸, Chinese(Intermediate)🇨🇳. 
 
 ## LANGUAGES AND TOOLS
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=#8B00FF)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=#3ddb86)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=#f89917)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#3476a9)
-![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter&logoColor=#f37821)
-![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas&logoColor=#0b0153)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mySql&logoColor=#dc7630)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=#659bd3)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=#a9bacd)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#f05134)
+![Kotlin](https://img.shields.io/badge/-Kotlin-8B00FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-3ddb86?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-f89917?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3476a9?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-f37821?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-0b0153?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-dc7630?style=for-the-badge&logo=mySql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-659bd3?style=for-the-badge&logo=CPlusPlus&logoColor=white)
+![C](https://img.shields.io/badge/-C-a9bacd?style=for-the-badge&logo=C&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05134?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## CONTACT ME
