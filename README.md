@@ -4,7 +4,7 @@
 
 #### • A programmer from Russia 🇷🇺, currently living in Georgia 🇬🇪.
 #### • Study at [School 21](https://21-school.ru) (Kazan, Russia), a Russian branch of [Ecole 42](https://42.fr/en/homepage/) (Paris, France) 
-#### • Graduated at TUSUR (Tomsk, Russia) with a science degree (business informatics) in 2019. 
+#### • Graduated at [TUSUR](https://tusur.ru/en) (Tomsk, Russia) with a science degree (Business Informatics) in 2019. 
 #### • Interested in mobile devices, Android and Kotlin. 
 #### • I speak Russian🇷🇺, English🇺🇸 and Chinese🇨🇳. 
 
