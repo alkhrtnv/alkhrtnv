@@ -22,3 +22,5 @@
 
 
 ## CONTACT ME
+[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dare2beborn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-kharitonov/)
