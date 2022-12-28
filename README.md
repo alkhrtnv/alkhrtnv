@@ -39,7 +39,7 @@
 **AUGUST** **[Java piscine](https://github.com/senglish42/java_piscine)** - a two-week intensive course of programming in Java, School 21.  
 **AUGUST** **[NetPractice](https://github.com/senglish42/netPractice)** - a set of networking exercises with a focus on IP addresses and subnet masks, School 21.  
 **JUNE-SEPTEMBER** **[Learn Mandarin Chinese: Intermediate](https://www.coursera.org/account/accomplishments/specialization/certificate/NV5PH4TKN3S5)** - a four-course specialization at Coursera.  
-**SEPTEMBER** **[Python Data Science piscine](https://github.com/senglish42/python_ds)** - a two-week intensive course of programming in Python for data science usage, School 21.  
+**SEPTEMBER** **[Python DS piscine](https://github.com/senglish42/python_ds)** - a two-week intensive course of programming in Python for data science usage, School 21.  
 **NOVEMBER** **[Android App Development with Kotlin](https://stepik.org/cert/1772421)** - a course at Stepik.  
 **NOVEMBER-...** taking **[Kotlin Basics](https://hyperskill.org/tracks/18)** course at Hyperskill.  
 **NOVEMBER-...** taking twelve-course **[Meta Android Developer](https://www.coursera.org/professional-certificates/meta-android-developer)** professional specialization at Coursera.  
