@@ -3,6 +3,7 @@
 ## ABOUT ME
 
 #### • A beginner programmer from Russia 🇷🇺, currently living in Georgia 🇬🇪.
+#### • Study at School 21 (Kazan, Russia), a Russian branch of Ecole 42 (Paris, France) 
 #### • Graduated at TUSUR (Tomsk, Russia) with a science degree (business informatics) in 2019. 
 #### • Interested in mobile devices, Android and Kotlin. 
 #### • I speak Russian🇷🇺, English🇺🇸 and Chinese🇨🇳. 
@@ -24,3 +25,7 @@
 ## CONTACT ME
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dare2beborn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-kharitonov/)
+
+## HYPERSKILL PROFILE
+[![HyperSkill](https://img.shields.io/badge/-HyperSkill-090909?style=for-the-badge&logo=jetBrains&logoColor=white)](https://hyperskill.org/profile/331154103)
+
