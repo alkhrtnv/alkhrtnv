@@ -30,7 +30,7 @@
 [![HyperSkill](https://img.shields.io/badge/-HyperSkill-090909?style=for-the-badge&logo=jetBrains&logoColor=white)](https://hyperskill.org/profile/331154103)
 
 ## MY 2022 TIMELINE
-**JANUARY** [Philosophers](https://github.com/senglish42/philo) - dining philosophers problem implementation, School 21 (C language, using of threads, mutexes, forks, malloc).  
+**JANUARY** [Philosophers](https://github.com/senglish42/philo) - dining philosophers problem implementation, School 21 (C language, threads, mutexes, fork, malloc).  
 **FEBRUARY** [Cub 3D](https://github.com/senglish42/cub3D) - a raycasting game engine with the usage of graphic tools, School 21 (C language, Minilibx, 3D).  
 **MARCH** [Introduction to C++ programming](https://stepik.org/cert/1458438) - a course at Stepik.  
 **APRIL** [Introduction to Linux](https://stepik.org/cert/1482125) - a course at Stepik.  
