@@ -14,8 +14,9 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#3476a9)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter&logoColor=#f37821)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas&logoColor=#0b0153)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql&logoColor=#dc7630)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mySql&logoColor=#dc7630)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=#659bd3)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=#a9bacd)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#f05134)
 
 
