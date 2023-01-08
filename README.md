@@ -29,18 +29,21 @@
 ## HYPERSKILL PROFILE
 [![HyperSkill](https://img.shields.io/badge/-HyperSkill-090909?style=for-the-badge&logo=jetBrains&logoColor=white)](https://hyperskill.org/profile/331154103)
 
+## MY 2023 TIMELINE
+**JANUARY** **[Bin Checker](https://github.com/senglish42/bin_checker)** - an Android app for BIN number searching.   
+
 ## MY 2022 TIMELINE
-**JANUARY** **[Philosophers](https://github.com/senglish42/philo)** - the dining philosophers problem implementation, School 21 (C language, threads, mutexes, fork, malloc).  
-**FEBRUARY** **[Cub 3D](https://github.com/senglish42/cub3D)** - a raycasting game engine with the usage of graphic tools, School 21 (C language, Minilibx, 3D).  
-**MARCH** **[Introduction to C++ programming](https://stepik.org/cert/1458438)** - a course at Stepik.  
-**APRIL** **[Introduction to Linux](https://stepik.org/cert/1482125)** - a course at Stepik.  
-**MAY** **[Programming in C++](https://stepik.org/cert/1523158)** - a course at Stepik.  
-**JULY** **[C++ piscine](https://github.com/senglish42/cpp_piscine)** - a two-week intensive course of programming in C++, School 21.  
-**AUGUST** **[Java piscine](https://github.com/senglish42/java_piscine)** - a two-week intensive course of programming in Java, School 21.  
-**AUGUST** **[NetPractice](https://github.com/senglish42/netPractice)** - a set of networking exercises with a focus on IP addresses and subnet masks, School 21.  
-**JUNE-SEPTEMBER** **[Learn Mandarin Chinese: Intermediate](https://www.coursera.org/account/accomplishments/specialization/certificate/NV5PH4TKN3S5)** - a four-course specialization at Coursera.  
-**SEPTEMBER** **[Python DS piscine](https://github.com/senglish42/python_ds)** - a two-week intensive course of programming in Python for data science usage, School 21.  
-**NOVEMBER** **[Android App Development with Kotlin](https://stepik.org/cert/1772421)** - a course at Stepik.  
-**NOVEMBER-...** taking **[Kotlin Basics](https://hyperskill.org/tracks/18)** course at Hyperskill.  
-**NOVEMBER-...** taking twelve-course **[Meta Android Developer](https://www.coursera.org/professional-certificates/meta-android-developer)** professional specialization at Coursera.  
 **DECEMBER-...** **[My Minesweeper](https://github.com/senglish42/Minesweeper_App)** - an Android app with my own Minesweeper game implementation, a personal project.  
+**NOVEMBER-...** taking twelve-course **[Meta Android Developer](https://www.coursera.org/professional-certificates/meta-android-developer)** professional specialization at Coursera.  
+**NOVEMBER-...** taking **[Kotlin Basics](https://hyperskill.org/tracks/18)** course at Hyperskill.  
+**NOVEMBER** **[Android App Development with Kotlin](https://stepik.org/cert/1772421)** - a course at Stepik.  
+**SEPTEMBER** **[Python DS piscine](https://github.com/senglish42/python_ds)** - a two-week intensive course of programming in Python for data science usage, School 21.  
+**JUNE-SEPTEMBER** **[Learn Mandarin Chinese: Intermediate](https://www.coursera.org/account/accomplishments/specialization/certificate/NV5PH4TKN3S5)** - a four-course specialization at Coursera.  
+**AUGUST** **[NetPractice](https://github.com/senglish42/netPractice)** - a set of networking exercises with a focus on IP addresses and subnet masks, School 21.  
+**AUGUST** **[Java piscine](https://github.com/senglish42/java_piscine)** - a two-week intensive course of programming in Java, School 21.  
+**JULY** **[C++ piscine](https://github.com/senglish42/cpp_piscine)** - a two-week intensive course of programming in C++, School 21.  
+**MAY** **[Programming in C++](https://stepik.org/cert/1523158)** - a course at Stepik.  
+**APRIL** **[Introduction to Linux](https://stepik.org/cert/1482125)** - a course at Stepik.  
+**MARCH** **[Introduction to C++ programming](https://stepik.org/cert/1458438)** - a course at Stepik.  
+**FEBRUARY** **[Cub 3D](https://github.com/senglish42/cub3D)** - a raycasting game engine with the usage of graphic tools, School 21 (C language, Minilibx, 3D).  
+**JANUARY** **[Philosophers](https://github.com/senglish42/philo)** - the dining philosophers problem implementation, School 21 (C language, threads, mutexes, fork, malloc).  
